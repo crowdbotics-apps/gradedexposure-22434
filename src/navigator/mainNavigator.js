@@ -9,7 +9,6 @@ import Maps169890Navigator from '../features/Maps169890/navigator';
 import Additem169889Navigator from '../features/Additem169889/navigator';
 import Maps169885Navigator from '../features/Maps169885/navigator';
 import UserProfile169881Navigator from '../features/UserProfile169881/navigator';
-import UserProfile1169858Navigator from '../features/UserProfile1169858/navigator';
 
 /**
  * new navigators can be imported here
@@ -22,7 +21,6 @@ Maps169890: { screen: Maps169890Navigator },
 Additem169889: { screen: Additem169889Navigator },
 Maps169885: { screen: Maps169885Navigator },
 UserProfile169881: { screen: UserProfile169881Navigator },
-UserProfile1169858: { screen: UserProfile1169858Navigator },
 
     /** new navigators can be added here */
     SplashScreen: {
